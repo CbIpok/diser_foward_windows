@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/netcdf-exporter.dir/NetCDFExporter.cpp.o -o netcdf-exporter  -lnetcdf -lnetcdf_c++4 
