@@ -20,8 +20,15 @@ def init_db():
 def add_tasks():
     conn = sqlite3.connect(DB_FILE)
     cursor = conn.cursor()
-    for i in range(1, 101):
-        cursor.execute('INSERT INTO tasks (task, status, reserved_at) VALUES (?, ?, ?)', (f'Task {i}', 'pending', None))
+    input_file = 'sorted_files.txt'
+    # Открываем файл на чтение
+    with open(input_file, 'r') as f:
+        # Проходим по каждой строке в файле
+        for line in f:
+            # Убираем символ новой строки в конце строки
+            file_path = line.strip()
+            cursor.execute('INSERT INTO tasks (task, status, reserved_at) VALUES (?, ?, ?)', (file_path, 'pending', None))
+
     conn.commit()
     conn.close()
 
@@ -48,9 +55,10 @@ def complete_task(task_id):
 def release_expired_tasks():
     conn = sqlite3.connect(DB_FILE)
     cursor = conn.cursor()
-    one_minute_ago = time.time() - 60
+    one_minute_ago = time.time() - 60*10
     cursor.execute('UPDATE tasks SET status = ? WHERE status = ? AND reserved_at < ?', ('pending', 'reserved', one_minute_ago))
     conn.commit()
     conn.close()
 
+# init_db()
 # add_tasks()

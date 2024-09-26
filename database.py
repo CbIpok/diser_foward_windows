@@ -1,24 +1,35 @@
 import sqlite3
+import mysql.connector
 
+db_config_ = {
+    'user': 'admin',
+    'password': 'root',  # Замените на ваш реальный пароль
+    'host': '172.22.128.55',
+    'database': 'data',  # Замените на имя вашей базы данных
+    'port': 3306
+}
 
 class FileDatabase:
-    def __init__(self, db_path='file_database.db'):
-        self.db_path = db_path
-        self.conn = sqlite3.connect(self.db_path)
+    def __init__(self, db_config=None):
+        """db_config - словарь с параметрами подключения к базе данных MySQL."""
+        if db_config is None:
+            db_config = db_config_
+        self.conn = mysql.connector.connect(**db_config)
+        self.cursor = self.conn.cursor()
         self._create_table()
 
     def _create_table(self):
         """Создает таблицу для хранения файлов, если она еще не существует"""
         query = """
         CREATE TABLE IF NOT EXISTS files (
-            bath TEXT,
-            wave TEXT,
-            txt_file BLOB,
-            nc_file BLOB,
+            bath VARCHAR(255),
+            wave VARCHAR(255),
+            txt_file LONGBLOB,
+            nc_file LONGBLOB,
             PRIMARY KEY (bath, wave)
         )
         """
-        self.conn.execute(query)
+        self.cursor.execute(query)
         self.conn.commit()
 
     def save_files(self, bath, wave, txt_file_path, nc_file_path):
@@ -28,19 +39,20 @@ class FileDatabase:
             nc_data = nc_file.read()
 
         query = """
-        INSERT OR REPLACE INTO files (bath, wave, txt_file, nc_file)
-        VALUES (?, ?, ?, ?)
+        INSERT INTO files (bath, wave, txt_file, nc_file)
+        VALUES (%s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE txt_file = VALUES(txt_file), nc_file = VALUES(nc_file)
         """
-        self.conn.execute(query, (bath, wave, txt_data, nc_data))
+        self.cursor.execute(query, (bath, wave, txt_data, nc_data))
         self.conn.commit()
 
     def load_files(self, bath, wave, txt_output_path, nc_output_path):
         """Загружает файлы по ключам bath и wave и сохраняет их на диск"""
         query = """
-        SELECT txt_file, nc_file FROM files WHERE bath = ? AND wave = ?
+        SELECT txt_file, nc_file FROM files WHERE bath = %s AND wave = %s
         """
-        cursor = self.conn.execute(query, (bath, wave))
-        result = cursor.fetchone()
+        self.cursor.execute(query, (bath, wave))
+        result = self.cursor.fetchone()
 
         if result:
             txt_data, nc_data = result
@@ -53,12 +65,13 @@ class FileDatabase:
 
     def delete_files(self, bath, wave):
         """Удаляет файлы по ключам bath и wave"""
-        query = "DELETE FROM files WHERE bath = ? AND wave = ?"
-        self.conn.execute(query, (bath, wave))
+        query = "DELETE FROM files WHERE bath = %s AND wave = %s"
+        self.cursor.execute(query, (bath, wave))
         self.conn.commit()
 
     def close(self):
         """Закрывает соединение с базой данных"""
+        self.cursor.close()
         self.conn.close()
 
 
