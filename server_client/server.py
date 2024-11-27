@@ -3,7 +3,7 @@ import threading
 import time
 from sql import get_next_task, complete_task, release_expired_tasks
 
-HOST = '127.0.0.1'  # Локальный хост
+HOST = '0.0.0.0'  # Локальный хост
 PORT = 65432        # Порт сервера
 
 clients = []

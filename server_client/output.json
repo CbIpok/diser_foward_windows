@@ -1,0 +1,5362 @@
+[
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_0.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_1.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_2.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_3.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_4.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_5.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_6.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_7.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_8.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_9.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_10.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_11.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_12.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_13.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_14.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_15.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_16.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_17.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_18.wave"
+    },
+    {
+        "basis": "rectangle_basis_10_2",
+        "file": "-700_basis_19.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_0.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_1.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_2.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_3.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_4.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_5.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_6.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_7.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_8.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_9.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_10.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_11.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_12.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_13.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_14.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_15.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_16.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_17.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_18.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_19.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_20.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_21.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_22.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_23.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_24.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_25.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_26.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_27.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_28.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_29.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_30.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_31.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_32.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_33.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_34.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_35.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_36.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_37.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_38.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_39.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_40.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_41.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_42.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_43.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_44.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_45.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_46.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_47.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_48.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_49.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_50.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_51.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_52.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_53.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_54.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_55.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_56.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_57.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_58.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_59.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_60.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_61.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_62.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_63.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_64.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_65.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_66.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_67.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_68.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_69.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_70.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_71.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_72.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_73.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_74.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_75.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_76.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_77.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_78.wave"
+    },
+    {
+        "basis": "rectangle_basis_20_4",
+        "file": "-700_basis_79.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_0.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_1.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_2.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_3.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_4.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_5.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_6.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_7.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_8.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_9.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_10.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_11.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_12.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_13.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_14.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_15.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_16.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_17.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_18.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_19.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_20.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_21.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_22.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_23.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_24.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_25.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_26.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_27.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_28.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_29.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_30.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_31.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_32.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_33.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_34.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_35.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_36.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_37.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_38.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_39.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_40.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_41.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_42.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_43.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_44.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_45.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_46.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_47.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_48.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_49.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_50.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_51.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_52.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_53.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_54.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_55.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_56.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_57.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_58.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_59.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_60.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_61.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_62.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_63.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_64.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_65.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_66.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_67.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_68.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_69.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_70.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_71.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_72.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_73.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_74.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_75.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_76.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_77.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_78.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_79.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_80.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_81.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_82.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_83.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_84.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_85.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_86.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_87.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_88.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_89.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_90.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_91.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_92.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_93.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_94.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_95.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_96.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_97.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_98.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_99.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_100.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_101.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_102.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_103.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_104.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_105.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_106.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_107.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_108.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_109.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_110.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_111.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_112.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_113.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_114.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_115.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_116.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_117.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_118.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_119.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_120.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_121.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_122.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_123.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_124.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_125.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_126.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_127.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_128.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_129.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_130.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_131.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_132.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_133.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_134.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_135.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_136.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_137.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_138.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_139.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_140.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_141.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_142.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_143.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_144.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_145.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_146.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_147.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_148.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_149.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_150.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_151.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_152.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_153.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_154.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_155.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_156.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_157.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_158.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_159.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_160.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_161.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_162.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_163.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_164.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_165.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_166.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_167.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_168.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_169.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_170.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_171.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_172.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_173.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_174.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_175.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_176.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_177.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_178.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_179.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_180.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_181.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_182.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_183.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_184.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_185.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_186.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_187.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_188.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_189.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_190.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_191.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_192.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_193.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_194.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_195.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_196.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_197.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_198.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_199.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_200.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_201.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_202.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_203.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_204.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_205.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_206.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_207.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_208.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_209.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_210.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_211.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_212.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_213.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_214.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_215.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_216.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_217.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_218.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_219.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_220.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_221.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_222.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_223.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_224.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_225.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_226.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_227.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_228.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_229.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_230.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_231.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_232.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_233.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_234.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_235.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_236.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_237.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_238.wave"
+    },
+    {
+        "basis": "rectangle_basis_40_6",
+        "file": "-700_basis_239.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_0.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_1.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_2.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_3.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_4.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_5.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_6.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_7.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_8.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_9.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_10.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_11.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_12.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_13.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_14.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_15.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_16.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_17.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_18.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_19.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_20.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_21.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_22.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_23.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_24.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_25.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_26.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_27.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_28.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_29.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_30.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_31.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_32.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_33.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_34.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_35.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_36.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_37.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_38.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_39.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_40.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_41.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_42.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_43.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_44.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_45.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_46.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_47.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_48.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_49.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_50.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_51.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_52.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_53.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_54.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_55.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_56.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_57.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_58.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_59.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_60.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_61.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_62.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_63.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_64.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_65.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_66.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_67.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_68.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_69.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_70.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_71.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_72.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_73.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_74.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_75.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_76.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_77.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_78.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_79.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_80.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_81.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_82.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_83.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_84.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_85.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_86.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_87.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_88.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_89.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_90.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_91.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_92.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_93.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_94.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_95.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_96.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_97.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_98.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_99.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_100.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_101.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_102.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_103.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_104.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_105.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_106.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_107.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_108.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_109.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_110.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_111.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_112.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_113.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_114.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_115.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_116.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_117.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_118.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_119.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_120.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_121.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_122.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_123.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_124.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_125.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_126.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_127.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_128.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_129.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_130.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_131.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_132.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_133.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_134.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_135.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_136.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_137.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_138.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_139.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_140.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_141.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_142.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_143.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_144.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_145.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_146.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_147.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_148.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_149.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_150.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_151.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_152.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_153.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_154.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_155.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_156.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_157.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_158.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_159.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_160.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_161.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_162.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_163.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_164.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_165.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_166.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_167.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_168.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_169.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_170.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_171.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_172.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_173.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_174.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_175.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_176.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_177.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_178.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_179.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_180.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_181.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_182.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_183.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_184.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_185.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_186.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_187.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_188.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_189.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_190.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_191.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_192.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_193.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_194.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_195.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_196.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_197.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_198.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_199.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_200.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_201.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_202.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_203.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_204.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_205.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_206.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_207.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_208.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_209.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_210.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_211.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_212.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_213.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_214.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_215.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_216.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_217.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_218.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_219.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_220.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_221.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_222.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_223.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_224.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_225.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_226.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_227.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_228.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_229.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_230.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_231.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_232.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_233.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_234.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_235.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_236.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_237.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_238.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_239.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_240.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_241.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_242.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_243.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_244.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_245.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_246.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_247.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_248.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_249.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_250.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_251.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_252.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_253.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_254.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_255.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_256.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_257.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_258.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_259.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_260.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_261.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_262.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_263.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_264.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_265.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_266.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_267.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_268.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_269.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_270.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_271.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_272.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_273.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_274.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_275.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_276.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_277.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_278.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_279.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_280.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_281.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_282.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_283.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_284.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_285.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_286.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_287.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_288.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_289.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_290.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_291.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_292.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_293.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_294.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_295.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_296.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_297.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_298.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_299.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_300.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_301.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_302.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_303.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_304.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_305.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_306.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_307.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_308.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_309.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_310.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_311.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_312.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_313.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_314.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_315.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_316.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_317.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_318.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_319.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_320.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_321.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_322.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_323.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_324.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_325.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_326.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_327.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_328.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_329.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_330.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_331.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_332.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_333.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_334.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_335.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_336.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_337.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_338.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_339.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_340.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_341.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_342.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_343.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_344.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_345.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_346.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_347.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_348.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_349.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_350.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_351.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_352.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_353.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_354.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_355.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_356.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_357.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_358.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_359.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_360.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_361.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_362.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_363.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_364.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_365.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_366.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_367.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_368.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_369.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_370.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_371.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_372.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_373.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_374.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_375.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_376.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_377.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_378.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_379.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_380.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_381.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_382.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_383.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_384.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_385.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_386.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_387.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_388.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_389.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_390.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_391.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_392.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_393.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_394.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_395.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_396.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_397.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_398.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_399.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_400.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_401.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_402.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_403.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_404.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_405.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_406.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_407.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_408.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_409.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_410.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_411.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_412.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_413.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_414.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_415.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_416.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_417.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_418.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_419.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_420.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_421.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_422.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_423.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_424.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_425.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_426.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_427.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_428.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_429.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_430.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_431.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_432.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_433.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_434.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_435.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_436.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_437.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_438.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_439.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_440.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_441.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_442.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_443.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_444.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_445.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_446.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_447.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_448.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_449.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_450.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_451.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_452.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_453.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_454.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_455.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_456.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_457.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_458.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_459.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_460.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_461.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_462.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_463.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_464.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_465.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_466.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_467.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_468.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_469.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_470.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_471.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_472.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_473.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_474.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_475.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_476.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_477.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_478.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_479.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_480.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_481.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_482.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_483.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_484.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_485.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_486.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_487.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_488.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_489.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_490.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_491.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_492.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_493.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_494.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_495.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_496.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_497.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_498.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_499.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_500.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_501.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_502.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_503.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_504.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_505.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_506.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_507.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_508.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_509.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_510.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_511.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_512.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_513.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_514.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_515.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_516.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_517.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_518.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_519.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_520.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_521.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_522.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_523.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_524.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_525.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_526.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_527.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_528.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_529.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_530.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_531.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_532.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_533.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_534.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_535.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_536.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_537.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_538.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_539.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_540.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_541.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_542.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_543.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_544.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_545.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_546.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_547.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_548.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_549.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_550.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_551.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_552.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_553.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_554.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_555.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_556.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_557.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_558.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_559.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_560.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_561.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_562.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_563.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_564.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_565.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_566.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_567.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_568.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_569.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_570.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_571.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_572.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_573.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_574.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_575.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_576.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_577.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_578.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_579.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_580.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_581.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_582.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_583.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_584.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_585.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_586.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_587.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_588.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_589.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_590.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_591.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_592.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_593.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_594.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_595.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_596.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_597.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_598.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_599.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_600.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_601.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_602.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_603.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_604.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_605.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_606.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_607.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_608.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_609.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_610.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_611.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_612.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_613.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_614.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_615.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_616.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_617.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_618.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_619.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_620.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_621.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_622.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_623.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_624.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_625.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_626.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_627.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_628.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_629.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_630.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_631.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_632.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_633.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_634.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_635.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_636.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_637.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_638.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_639.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_640.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_641.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_642.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_643.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_644.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_645.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_646.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_647.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_648.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_649.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_650.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_651.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_652.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_653.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_654.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_655.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_656.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_657.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_658.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_659.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_660.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_661.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_662.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_663.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_664.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_665.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_666.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_667.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_668.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_669.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_670.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_671.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_672.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_673.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_674.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_675.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_676.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_677.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_678.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_679.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_680.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_681.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_682.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_683.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_684.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_685.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_686.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_687.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_688.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_689.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_690.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_691.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_692.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_693.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_694.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_695.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_696.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_697.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_698.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_699.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_700.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_701.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_702.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_703.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_704.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_705.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_706.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_707.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_708.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_709.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_710.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_711.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_712.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_713.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_714.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_715.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_716.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_717.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_718.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_719.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_720.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_721.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_722.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_723.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_724.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_725.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_726.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_727.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_728.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_729.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_730.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_731.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_732.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_733.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_734.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_735.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_736.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_737.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_738.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_739.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_740.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_741.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_742.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_743.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_744.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_745.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_746.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_747.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_748.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_749.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_750.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_751.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_752.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_753.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_754.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_755.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_756.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_757.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_758.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_759.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_760.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_761.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_762.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_763.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_764.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_765.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_766.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_767.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_768.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_769.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_770.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_771.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_772.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_773.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_774.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_775.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_776.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_777.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_778.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_779.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_780.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_781.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_782.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_783.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_784.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_785.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_786.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_787.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_788.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_789.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_790.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_791.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_792.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_793.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_794.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_795.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_796.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_797.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_798.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_799.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_800.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_801.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_802.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_803.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_804.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_805.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_806.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_807.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_808.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_809.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_810.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_811.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_812.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_813.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_814.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_815.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_816.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_817.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_818.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_819.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_820.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_821.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_822.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_823.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_824.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_825.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_826.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_827.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_828.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_829.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_830.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_831.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_832.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_833.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_834.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_835.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_836.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_837.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_838.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_839.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_840.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_841.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_842.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_843.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_844.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_845.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_846.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_847.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_848.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_849.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_850.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_851.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_852.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_853.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_854.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_855.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_856.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_857.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_858.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_859.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_860.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_861.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_862.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_863.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_864.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_865.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_866.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_867.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_868.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_869.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_870.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_871.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_872.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_873.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_874.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_875.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_876.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_877.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_878.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_879.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_880.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_881.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_882.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_883.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_884.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_885.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_886.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_887.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_888.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_889.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_890.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_891.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_892.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_893.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_894.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_895.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_896.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_897.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_898.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_899.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_900.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_901.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_902.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_903.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_904.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_905.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_906.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_907.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_908.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_909.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_910.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_911.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_912.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_913.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_914.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_915.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_916.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_917.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_918.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_919.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_920.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_921.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_922.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_923.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_924.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_925.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_926.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_927.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_928.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_929.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_930.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_931.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_932.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_933.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_934.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_935.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_936.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_937.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_938.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_939.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_940.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_941.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_942.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_943.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_944.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_945.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_946.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_947.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_948.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_949.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_950.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_951.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_952.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_953.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_954.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_955.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_956.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_957.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_958.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_959.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_960.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_961.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_962.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_963.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_964.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_965.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_966.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_967.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_968.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_969.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_970.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_971.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_972.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_973.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_974.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_975.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_976.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_977.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_978.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_979.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_980.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_981.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_982.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_983.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_984.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_985.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_986.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_987.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_988.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_989.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_990.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_991.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_992.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_993.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_994.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_995.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_996.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_997.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_998.wave"
+    },
+    {
+        "basis": "rectangle_basis_100_10",
+        "file": "-700_basis_999.wave"
+    }
+]

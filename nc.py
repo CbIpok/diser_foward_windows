@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 # Открываем NetCDF файл с помощью xarray
-ds = xr.open_dataset('out.nc')
+ds = xr.open_dataset(r'D:\dmitrienkomy\share\set_4\dataStorage\rectangle_basis_100_10\-700_basis_11.wave.nc')
 
 # Предположим, что ваши данные организованы как DataArray с координатами x, y, и time
 # Замена 'your_variable' на имя переменной, которую вы хотите отобразить
@@ -26,7 +26,7 @@ def update(frame):
     return [img]
 
 # Настройка анимации
-ani = FuncAnimation(fig, update, frames=range(0,time_steps,20), interval=2)
+ani = FuncAnimation(fig, update, frames=range(0,time_steps,120), interval=2)
 
 # Показываем анимацию
 plt.show()

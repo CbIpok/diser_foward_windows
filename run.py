@@ -109,17 +109,18 @@ set_path = r"\\Dmitrienko-1064.sl.iae.nsk.su\share\set_3"
 
 
 if __name__ == "__main__":
-    db = FileDatabase()
-    waves = get_files_with_extension(set_path, "wave")
-    bathes = get_files_with_extension(set_path, "bath")
-    print(waves)
-    print(bathes)
-    for bath in bathes:
-        for wave in waves:
-            exp = Experiment(f"D:\dmitrienkomy\python\diser_input\data\set_3/info.json",bath,wave,"data")
-            exp.init_json()
-            exp.run()
-            exp.save_max_height(f"dat.txt")
-            exp.save_subduction_zone(f"out.nc")
-            db.save_files(bath,wave,f"dat.txt",f"out.nc")
-        pass
+    # db = FileDatabase()
+    # waves = get_files_with_extension(set_path, "wave")
+    # bathes = get_files_with_extension(set_path, "bath")
+    # print(waves)
+    # print(bathes)
+    # for bath in bathes:
+    #     for wave in waves:
+    #         exp = Experiment(f"D:\dmitrienkomy\python\diser_input\data\set_3/info.json",bath,wave,"data")
+    #         exp.init_json()
+    #         exp.run()
+    #         exp.save_max_height(f"dat.txt")
+    #         exp.save_subduction_zone(f"out.nc")
+    #         db.save_files(bath,wave,f"dat.txt",f"out.nc")
+    #     pass
+    print(windows_to_wsl_path(r"C:\python\diser_foward_windows\data\temp\template_exp.json"))

@@ -1,7 +1,7 @@
 import socket
 import time
 import main
-HOST = '127.0.0.1'  # IP сервера
+HOST = '172.22.128.55'  # IP сервера
 PORT = 65432  # Порт сервера
 
 set_path = r"\\Dmitrienko-1064.sl.iae.nsk.su\share\set_3"
@@ -22,7 +22,7 @@ def client():
                     print(f"Received task: {task}")
                     main.run(task)
                     s.sendall(b'DONE')
-        except ConnectionError:
+        except Exception:
             print("Connection failed, retrying in 30 seconds...")
             time.sleep(30)
 

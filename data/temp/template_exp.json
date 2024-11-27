@@ -3,7 +3,7 @@
         "type": "raw",
         "width": 2048,
         "height": 1348,
-        "file": "/mnt/d/dmitrienkomy/python/diser_foward_windows/set_3/bathes/-700_1000_1500.bath",
+        "file": "/mnt/d/dmitrienkomy/python/diser_foward_windows/set_4/bathes/-700_1000_1500.bath",
         "deep": 1000,
         "x-step": 1000,
         "y-step": 1000
@@ -12,7 +12,7 @@
         "name": "exp",
         "init-wave": {
             "type": "raw",
-            "file": "/mnt/d/dmitrienkomy/python/diser_foward_windows/set_3/waves/-700_0.wave"
+            "file": "/mnt/d/dmitrienkomy/python/diser_foward_windows/set_4/basises/rectangle_basis_100_10/-700_basis_999.wave"
         },
         "output-dir": "/mnt/d/dmitrienkomy/python/diser_foward_windows/data",
         "timestep": 5,

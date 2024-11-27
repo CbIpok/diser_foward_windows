@@ -1,3 +1,4 @@
+import json
 import sqlite3
 import time
 
@@ -20,13 +21,15 @@ def init_db():
 def add_tasks():
     conn = sqlite3.connect(DB_FILE)
     cursor = conn.cursor()
-    input_file = 'sorted_files.txt'
+    input_file = 'output.json'
     # Открываем файл на чтение
+
     with open(input_file, 'r') as f:
+        files = json.load(f)
         # Проходим по каждой строке в файле
-        for line in f:
+        for file in files:
             # Убираем символ новой строки в конце строки
-            file_path = line.strip()
+            file_path = json.dumps(file)
             cursor.execute('INSERT INTO tasks (task, status, reserved_at) VALUES (?, ?, ?)', (file_path, 'pending', None))
 
     conn.commit()
@@ -59,6 +62,7 @@ def release_expired_tasks():
     cursor.execute('UPDATE tasks SET status = ? WHERE status = ? AND reserved_at < ?', ('pending', 'reserved', one_minute_ago))
     conn.commit()
     conn.close()
+
 
 # init_db()
 # add_tasks()
